@@ -1,6 +1,8 @@
 # EverMind Research Prototype
 
 EverMind is a research prototype exploring an agent architecture that can expand its knowledge without retraining the underlying language model.  
+What may initially sound impractical or even impossible is already functioning in this prototype.
+
 The system integrates new datasets from sources such as the Hugging Face Hub, Kaggle and custom collections within minutes and consolidates them into a scalable multi layer vector memory that preserves identity, behaviour and long term reasoning across sessions.
 
 A self generated reward mechanism continuously reorganises this memory, enabling the agent to refine its understanding over time while the underlying language model remains external.  
