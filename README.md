@@ -82,10 +82,5 @@ A detailed technical report is currently in preparation.
 
 ---
 
-## License
-To be defined.
-
----
-
 ## Contact
 For research collaboration inquiries, please reach out via GitHub or LinkedIn.
